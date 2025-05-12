@@ -9,7 +9,7 @@ AnimeResume is a resume builder that allows you to create a resume with your fav
 ## Getting Started
 
 ```bash
-git clone https://github.com/xitanggg/open-resume.git
+git clone https://github.com/lavinal712/anime-resume.git
 cd open-resume
 # modify src/app/components/Resume/ResumePDF/ResumePDFProfile.tsx with your own image
 docker build -t open-resume .
